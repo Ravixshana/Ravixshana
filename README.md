@@ -1,6 +1,6 @@
 👋 About Me
 
-Hi, I'm RAVIXSHAN – a dedicated developer with a strong foundation in Machine Learning, Artificial Intelligence, Deep Learning, Computer Vision, and Software/Hardware Development. I'm passionate about leveraging technology to solve real-world problems and continuously learning to stay ahead in this dynamic field.
+Hi, I'm RAVIXSHANA – a dedicated developer with a strong foundation in Machine Learning, Artificial Intelligence, Deep Learning, Computer Vision, and Software/Hardware Development. I'm passionate about leveraging technology to solve real-world problems and continuously learning to stay ahead in this dynamic field.
 
 🚀 Professional Objective
 
